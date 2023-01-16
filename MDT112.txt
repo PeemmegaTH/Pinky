@@ -1,8 +1,4 @@
 Hello World!!!!!!!!!!!!!!!!
 
 I Love U
-<<<<<<< HEAD
-Media Art KMUTT
-=======
 Media Art Ma the fuc er
->>>>>>> Edit_MDT112
